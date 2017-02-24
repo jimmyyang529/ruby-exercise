@@ -12,9 +12,10 @@
 #majority_element([1,1,2,1,3]) should return 1.
 # @param {Integer[]} nums
 # @return {Integer}
-majority_element([1,2, 2, 3, 3, 3, 3]) # => 3
+#majority_element([1,2, 2, 3, 3, 3, 3]) # => 3
 
-def majority_element(n)
+def majority_element(a)
+	len = a.length 
 
     
 end
